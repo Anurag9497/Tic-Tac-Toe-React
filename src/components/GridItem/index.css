@@ -1,0 +1,14 @@
+.grid-item
+{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: lightgray;
+    font-size: 80px;
+}
+.grid-item:hover
+{
+    background-color: #cccccc;
+    cursor: pointer;
+}
